@@ -41,26 +41,6 @@ I love turning data into insights, building ML models, and improving system secu
 
 ---
 
-## 💼 Experience
-**Omantel – Codeline** *(Jan 2025 – Present)*  
-- EDA on **50k+** records (Pandas/NumPy/Matplotlib)  
-- **+20%** ML performance via feature engineering  
-- Model training & evaluation with **scikit-learn** and **SQL** automation  
-
-**Exceed IT Services & Training** *(Mar – Aug 2024)*  
-- 6 intensive courses (AI, Python, NLP, CV)  
-- Built classification models (**85%** accuracy) and deployed on **Azure ML**
-
-**Public Authority for Customer Protection** *(Nov – Dec 2023)*  
-- Managed **200+** official documents with archiving workflows  
-- Designed a **document classification system** improving accessibility by **30%**
-
-**Ministry of Information** *(Jun – Jul 2022)*  
-- Secured **50+** endpoints, reduced downtime by **15%**  
-- Windows license activation, antivirus rollout, and network support
-
----
-
 ## 📜 Certifications
 - International AI Driving License (2025)
 - Microsoft Azure AI Fundamentals — AI-900 (2024)
